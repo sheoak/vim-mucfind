@@ -18,15 +18,14 @@ Recommanded: use [Vundle](https://github.com/gmarik/vundle) for the installation
 sed, grep and mu binaries must be in the path.
 
 
+### Pathogen
+
+    git clone https://github.com/bling/vim-airline ~/.vim/bundle/vim-airline
+
+
 ### Vundle
 
-Add this to your ~/.vimrc:
-
-    Plugin 'sheoak/vim-mucfind.vim'
-
-Then run:
-
-    :PluginInstall in vim
+   Plugin 'sheoak/vim-mucfind.vim'
 
 
 ### Manual

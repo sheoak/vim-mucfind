@@ -1,7 +1,7 @@
 vim-mucfind
 ===========
 
-Vim plugin to perform search with mu and insert the selected result
+Vim plugin to perform search with mu and insert the selected result.
 
 This plugin has been created to be used with this great unix-style
 mail setup by Tomka <tomka@g.o>:
@@ -25,7 +25,7 @@ sed, grep and mu binaries must be in the path.
 
 ### Vundle
 
-   Plugin 'sheoak/vim-mucfind.vim'
+    Plugin 'sheoak/vim-mucfind.vim'
 
 
 ### Manual

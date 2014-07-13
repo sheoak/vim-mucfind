@@ -20,7 +20,7 @@ sed, grep and mu binaries must be in the path.
 
 ### Pathogen
 
-    git clone https://github.com/bling/vim-airline ~/.vim/bundle/vim-airline
+    git clone https://github.com/sheoak/vim-mucfind ~/.vim/bundle/vim-mucfind
 
 
 ### Vundle

@@ -25,7 +25,7 @@ sed, grep and mu binaries must be in the path.
 
 ### Vundle
 
-    Plugin 'sheoak/vim-mucfind.vim'
+    Plugin 'sheoak/vim-mucfind'
 
 
 ### Manual

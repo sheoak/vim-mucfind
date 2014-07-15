@@ -1,7 +1,7 @@
 vim-mucfind
 ===========
 
-Vim plugin to perform email search with mu and insert the selected result.
+Vim plugin to perform email addresses search with mu and insert the selected result.
 
 This plugin has been created to be used with this great unix-style
 mail setup by Tomka <tomka@g.o>:

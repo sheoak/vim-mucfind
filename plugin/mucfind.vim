@@ -31,7 +31,7 @@ function! Mucfind(search)
     " email will be enclosed with <> except if no name is attached
     " Todo: improve regex, (find out how to make \s([^\s]+)$ works)
     let l:reg    = 's/\s([-_i@\+\!\#\$\%\&\*\=\/\?\^`\{\}\~''0-9a-z\.]+)$/ <\1>/gi'
-    let l:muresult = system('mu cfind ' . a:search)
+    let l:muresult = system('mu cfind "' . a:search . '"')
 
     if v:shell_error
         return []

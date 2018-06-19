@@ -1,5 +1,13 @@
+
 vim-mucfind
 ===========
+
+# Warning
+
+This plugin is deprecated, I don't maintain it anymore, but it should still 
+work.
+
+# About this plugin
 
 Vim plugin to perform email addresses search with mu and insert the selected result.
 
